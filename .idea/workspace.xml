@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="false">
-    <generated />
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" assignedExecutableTargets="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="burlinchen_cpp_primer_answer" targetName="burlinchen_cpp_primer_answer" />
+      <config projectName="leptjson_test" targetName="leptjson_test" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="a" />
+      <config projectName="leptjson_test" targetName="leptjson" />
+      <config projectName="my_cpp_primer_answer" targetName="my_cpp_primer_answer" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_16" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_20" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_10" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_21" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_22" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_23" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_9" />
+      <config projectName="my_cpp_primer_answer" targetName="Demo" />
+      <config projectName="burlinchen_cpp_primer_answer" targetName="ex1_1" />
+    </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
     <ADDITIONAL_GENERATION_ENVIRONMENT>
@@ -9,7 +24,426 @@
     </ADDITIONAL_GENERATION_ENVIRONMENT>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7961aad8-fe38-433d-8b3f-d127ab736414" name="Default" comment="" />
+    <list default="true" id="7961aad8-fe38-433d-8b3f-d127ab736414" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch01/CMakeLists.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ch01/ex1_11.cpp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/my-Cpp-Primer.iml" afterPath="$PROJECT_DIR$/.idea/my-Cpp-Primer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_1.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_10.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_16.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_20.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_21.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_22.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_23.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch01/ex1_9.cpp" afterPath="$PROJECT_DIR$/ch01/ex1_9.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_34.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_34.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_35.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_35.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_4.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_4.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_42_1.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_42_1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_42_2.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_42_2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch02/ex2_42_3.cpp" afterPath="$PROJECT_DIR$/ch02/ex2_42_3.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_10.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_14.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_15.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_15.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_16.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_17.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_17.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_18.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_19.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_1a.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_1a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_1b.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_1b.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_20a.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_20a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_20b.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_20b.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_21.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_22.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_23.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_24.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_25.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_25.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_2a.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_2a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_2b.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_2b.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_31.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_31.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_32.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_35.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_35.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_36.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_36.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_39.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_39.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_40.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_40.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_41.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_41.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_42.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_42.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_43.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_43.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_44.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_44.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_45.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_45.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_4a.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_4a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_4b.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_4b.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_5a.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_5a.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_5b.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_5b.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_6.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_6.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch03/ex3_8.cpp" afterPath="$PROJECT_DIR$/ch03/ex3_8.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch04/ex4_21.cpp" afterPath="$PROJECT_DIR$/ch04/ex4_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch04/ex4_22.cpp" afterPath="$PROJECT_DIR$/ch04/ex4_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch04/ex4_28.cpp" afterPath="$PROJECT_DIR$/ch04/ex4_28.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_10.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_11.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_12.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_12.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_14.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_17.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_17.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_19.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_20.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_21.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_23.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_24.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_25.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_25.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_5.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_5.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_6.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_6.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch05/ex5_9.cpp" afterPath="$PROJECT_DIR$/ch05/ex5_9.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_10.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_11.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_12.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_12.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_17.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_17.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_21.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_22.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_23.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_25_26.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_25_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_27.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_27.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_33.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_42.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_42.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_44.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_44.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_47.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_47.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_51.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_51.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch06/ex6_54_55_56.cpp" afterPath="$PROJECT_DIR$/ch06/ex6_54_55_56.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_01.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_01.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_03.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_03.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_07.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_07.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_11.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_13.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_26.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_27_TEST.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_27_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_41.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_41.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_41_TEST.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_41_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch07/ex7_43.cpp" afterPath="$PROJECT_DIR$/ch07/ex7_43.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_02.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_02.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_04.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_04.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_05.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_05.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_06.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_06.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_07.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_07.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_08.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_08.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_09.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_09.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_10.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_11.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch08/ex8_13.cpp" afterPath="$PROJECT_DIR$/ch08/ex8_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_13.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_14.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_15.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_15.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_16.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_18.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_19.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_20.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_22.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_24.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_26.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_27.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_27.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_31_1.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_31_1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_31_2.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_31_2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_32.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_33.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_34.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_34.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_38.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_38.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_41.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_41.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_43.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_43.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_44.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_44.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_45.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_45.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_46.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_46.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_47_1.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_47_1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_47_2.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_47_2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_49.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_49.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_50.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_50.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_51.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_51.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch09/ex9_52.cpp" afterPath="$PROJECT_DIR$/ch09/ex9_52.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_01_02.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_01_02.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_03_04.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_03_04.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_06.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_06.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_07.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_07.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_09.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_09.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_11.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_12.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_12.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_13.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_16.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_17.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_17.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_18_19.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_18_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_20_21.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_20_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_22.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_24.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_25.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_25.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_27.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_27.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_28.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_28.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_29.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_29.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_30.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_30.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_31.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_31.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_32.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_33.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_34_35_36_37.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_34_35_36_37.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch10/ex10_42.cpp" afterPath="$PROJECT_DIR$/ch10/ex10_42.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_11.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_12_13.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_12_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_14.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_20.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_23.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_24_25_26.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_24_25_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_27_28_29_30.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_27_28_29_30.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_31.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_31.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_32.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_33.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_38.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_38.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_3_4.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_3_4.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_7.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_7.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_8.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_8.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch11/ex11_9_10.cpp" afterPath="$PROJECT_DIR$/ch11/ex11_9_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_02_TEST.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_02_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_06.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_06.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_07.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_07.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_10.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_11.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_11.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_12.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_12.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_13.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_14.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_15.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_15.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_16.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_17_18.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_17_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_19.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_20.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_22.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_23.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_24.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_26.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_27_30.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_27_30.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_27_30_TEST.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_27_30_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_28.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_28.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_32.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_32_TEST.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_32_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_33.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch12/ex12_33_TEST.cpp" afterPath="$PROJECT_DIR$/ch12/ex12_33_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_13.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_17_1.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_17_1.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_17_2.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_17_2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_17_3.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_17_3.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_18.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_26.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_26.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_28.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_28.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_31.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_31.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_34_36_37.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_34_36_37.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_39.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_39.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_40.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_40.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_42.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_42.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_42_StrVec.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_42_StrVec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_42_TextQuery.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_42_TextQuery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_44_47.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_44_47.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_48.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_48.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_49_Message.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_49_Message.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_49_StrVec.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_49_StrVec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_49_String.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_49_String.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_53.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_53.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_53_test.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_53_test.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch13/ex13_58.cpp" afterPath="$PROJECT_DIR$/ch13/ex13_58.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_02.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_02.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_02_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_02_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_05.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_05.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_05_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_05_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_07.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_07.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_07_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_07_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_13.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_13_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_13_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_15.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_15.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_15_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_15_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_StrBlob.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_StrBlob.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_StrBlobTest.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_StrBlobTest.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_StrVec.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_StrVec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_StrVecMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_StrVecMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_String.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_String.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_16_StringMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_16_StringMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_StrBlob.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_StrBlob.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_StrBlobTest.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_StrBlobTest.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_StrVec.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_StrVec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_StrVecMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_StrVecMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_String.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_String.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_18_StringMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_18_StringMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_22.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_22.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_22_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_22_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_23.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_23_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_23_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_24.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_24_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_24_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_StrBlob.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_StrBlob.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_StrBlobTest.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_StrBlobTest.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_StrVec.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_StrVec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_StrVecMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_StrVecMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_String.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_String.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_26_StringMain.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_26_StringMain.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_27_28_StrBlob.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_27_28_StrBlob.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_27_28_StrBlobTest.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_27_28_StrBlobTest.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_30_StrBlob.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_30_StrBlob.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_30_StrBlobTest.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_30_StrBlobTest.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_32.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_32.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_35.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_35.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_36.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_36.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_37.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_37.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_38_39.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_38_39.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_40.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_40.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_42.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_42.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_43.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_43.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_44.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_44.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_45.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_45.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_45_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_45_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_49.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_49.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch14/ex14_49_TEST.cpp" afterPath="$PROJECT_DIR$/ch14/ex14_49_TEST.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.1.2.3/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.1.2.3/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.1.2.3/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.1.2.3/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.11/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.11/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.11/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.11/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.11/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.11/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.11/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.11/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.12.13.14/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.12.13.14/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.12.13.14/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.12.13.14/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.12.13.14/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.12.13.14/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.12.13.14/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.12.13.14/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.15.16.17/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.15.16.17/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.15.16.17/disc_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.15.16.17/disc_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.15.16.17/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.15.16.17/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.15.16.17/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.15.16.17/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.15.16.17/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.15.16.17/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.18.19.20/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.18.19.20/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.21.22/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.21.22/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.23.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.24.25.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.24.25.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.26/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.26/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.26/disc_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.26/disc_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.26/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.26/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.26/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.26/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.26/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.26/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.27/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.27/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.27/disc_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.27/disc_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.27/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.27/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.27/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.27/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.27/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.27/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.28.29/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.28.29/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.28.29/disc_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.28.29/disc_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.28.29/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.28.29/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.28.29/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.28.29/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.28.29/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.28.29/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/basket.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/basket.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/disc_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/disc_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.30/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.30/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.31.32.33.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.31.32.33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/andquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/andquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/binaryquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/binaryquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/notquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/notquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/orquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/orquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/query.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/query.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/query_base.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/query_base.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/queryresult.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/queryresult.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/textquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/wordquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.34.35.36.38/wordquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.39.40/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.39.40/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.39.40/query.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.39.40/query.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.39.40/textquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.39.40/textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.4.5.6/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.4.5.6/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.4.5.6/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.4.5.6/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.4.5.6/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.4.5.6/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/andquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/andquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/binaryquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/binaryquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/notquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/notquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/orquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/orquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/query.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/query.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/query_base.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/query_base.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/queryhistory.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/queryhistory.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/queryresult.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/queryresult.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/textquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_b/wordquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_b/wordquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/andquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/andquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/binaryquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/binaryquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/notquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/notquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/orquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/orquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/query.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/query.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/query_base.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/query_base.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/queryresult.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/queryresult.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/textquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.42_c/wordquery.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.42_c/wordquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.7/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.7/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.7/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.7/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.7/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.7/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.7/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.7/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.8.9.10/ex15.8.9.10.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.8.9.10/ex15.8.9.10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.9/bulk_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.9/bulk_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.9/limit_quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.9/limit_quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.9/main.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.9/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch15/ex15.9/quote.cpp" afterPath="$PROJECT_DIR$/ch15/ex15.9/quote.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.1.2.3/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.1.2.3/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.12.13/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.12.13/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.14.15/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.14.15/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.16/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.16/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.17.18/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.17.18/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.19.20/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.19.20/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.21.22/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.21.22/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.21.22/wy_queryresult.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.21.22/wy_queryresult.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.21.22/wy_textquery.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.21.22/wy_textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.24/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.24/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.25.26/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.25.26/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.28/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.28/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.29/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.29/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.32.33.34.35.36/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.32.33.34.35.36/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.37.38.39/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.37.38.39/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.4/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.4/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.40/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.40/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.41/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.41/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.42.43.44.45.46/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.42.43.44.45.46/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.47/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.47/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.48/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.48/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.49.50/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.49.50/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.5/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.5/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.51.52/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.51.52/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.53.54.55/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.53.54.55/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.56.57/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.56.57/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.58.59/strvec.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.58.59/strvec.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.6/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.6/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.60.61/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.60.61/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.62/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.62/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.63.64/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.63.64/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.65.66.67/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.65.66.67/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.7.8/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.7.8/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch16/ex16.9.10.11/main.cpp" afterPath="$PROJECT_DIR$/ch16/ex16.9.10.11/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/17_24.cpp" afterPath="$PROJECT_DIR$/ch17/17_24.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/17_25.cpp" afterPath="$PROJECT_DIR$/ch17/17_25.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/17_27.cpp" afterPath="$PROJECT_DIR$/ch17/17_27.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/17_35_36.cpp" afterPath="$PROJECT_DIR$/ch17/17_35_36.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/17_37_38/17_37_38.cpp" afterPath="$PROJECT_DIR$/ch17/17_37_38/17_37_38.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17.3/main.cpp" afterPath="$PROJECT_DIR$/ch17/ex17.3/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17.3/textquery.cpp" afterPath="$PROJECT_DIR$/ch17/ex17.3/textquery.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_10.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_10.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_11_12_13.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_11_12_13.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_14_15_16.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_14_15_16.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_17_18.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_17_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_19_20.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_19_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_1_2.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_1_2.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_21.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_21.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_23.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_23.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_28_29_30.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_28_29_30.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_33.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_33.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_4_5_6_7_8.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_4_5_6_7_8.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_4_5_6_7_8_SalesData.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_4_5_6_7_8_SalesData.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch17/ex17_9.cpp" afterPath="$PROJECT_DIR$/ch17/ex17_9.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18/18_18 18_19.cpp" afterPath="$PROJECT_DIR$/ch18/18_18 18_19.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18/18_20.cpp" afterPath="$PROJECT_DIR$/ch18/18_20.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18/ex18.1.2.3.cpp" afterPath="$PROJECT_DIR$/ch18/ex18.1.2.3.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18/ex18.12.13.14.cpp" afterPath="$PROJECT_DIR$/ch18/ex18.12.13.14.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch18/ex18.15.16.17.cpp" afterPath="$PROJECT_DIR$/ch18/ex18.15.16.17.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch19/ex19_18.cpp" afterPath="$PROJECT_DIR$/ch19/ex19_18.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ch19/ex19_20.cpp" afterPath="$PROJECT_DIR$/ch19/ex19_20.cpp" />
+    </list>
     <ignored path="my-Cpp-Primer.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +461,127 @@
   <component name="FavoritesManager">
     <favorites_list name="my-Cpp-Primer" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ex1_1.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/ex1_1.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1_10.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/ex1_10.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="672">
+              <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1_11.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/ex1_11.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1_9.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/ex1_9.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex2_4.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch02/ex2_4.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ex1_16.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch01/ex1_16.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ch01/CMake/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ch01/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/ch01/a.cpp" />
+        <option value="$PROJECT_DIR$/ch01/ex1_1.cpp" />
+        <option value="$PROJECT_DIR$/ch01/ex1_10.cpp" />
+        <option value="$PROJECT_DIR$/ch01/ex1_9.cpp" />
+        <option value="$PROJECT_DIR$/ch01/ex1_11.cpp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -47,7 +600,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -107,7 +660,35 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="ch02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-Cpp-Primer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-Cpp-Primer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="ch01" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-Cpp-Primer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my-Cpp-Primer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".tools" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -118,11 +699,255 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/Cellar/node/5.8.0/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.my_cpp_primer_answer">
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leptjson_test" TARGET_NAME="leptjson" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="my-Cpp-Primer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="leptjson" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leptjson_test" TARGET_NAME="leptjson" CONFIG_NAME="Debug">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="leptjson_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leptjson_test" TARGET_NAME="leptjson_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="leptjson_test" RUN_TARGET_NAME="leptjson_test">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_cpp_primer_answer" TARGET_NAME="Demo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="my_cpp_primer_answer" RUN_TARGET_NAME="Demo">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="my_cpp_primer_answer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_cpp_primer_answer" TARGET_NAME="my_cpp_primer_answer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="my_cpp_primer_answer" RUN_TARGET_NAME="my_cpp_primer_answer">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="burlinchen_cpp_primer_answer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="burlinchen_cpp_primer_answer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="burlinchen_cpp_primer_answer">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="a" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="a" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="a">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_1">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_10">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_16" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_16" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_16">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_20" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_20" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_20">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_21" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_21" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_21">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_22" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_22" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_22">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_23" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_23" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_23">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ex1_9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="burlinchen_cpp_primer_answer" TARGET_NAME="ex1_9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="burlinchen_cpp_primer_answer" RUN_TARGET_NAME="ex1_9">
+      <envs />
+      <method />
+    </configuration>
+    <list size="15">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.leptjson" />
+      <item index="2" class="java.lang.String" itemvalue="Application.leptjson_test" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.my_cpp_primer_answer" />
+      <item index="5" class="java.lang.String" itemvalue="Application.burlinchen_cpp_primer_answer" />
+      <item index="6" class="java.lang.String" itemvalue="Application.a" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ex1_1" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ex1_10" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ex1_16" />
+      <item index="10" class="java.lang.String" itemvalue="Application.ex1_20" />
+      <item index="11" class="java.lang.String" itemvalue="Application.ex1_21" />
+      <item index="12" class="java.lang.String" itemvalue="Application.ex1_22" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ex1_23" />
+      <item index="14" class="java.lang.String" itemvalue="Application.ex1_9" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -136,32 +961,286 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1413" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.5015625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296131" sideWeight="0.4984375" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/a.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_23.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_9.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_16.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_20.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_21.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/CMake/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/build/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/build/CMakeFiles/ex1_11.dir/cmake_clean.cmake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_11.cpp" />
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_20.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_21.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_23.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/a" />
+    <entry file="file://$PROJECT_DIR$/ch01/a.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_16.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch02/ex2_4.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/build/ex1_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/build/ex1_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_9.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_10.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch01/ex1_11.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>

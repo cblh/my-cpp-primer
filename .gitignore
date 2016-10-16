@@ -35,3 +35,8 @@
 
 # vim
 *.swp
+
+#build
+**/build
+
+#.idea
