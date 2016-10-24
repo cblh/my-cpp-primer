@@ -54,12 +54,12 @@ void Sales_data::AddData(Sales_data data) {
 
 void Sales_data::Print() {
 
-    cout << 'bookNo: ' << bookNo << ' revenue: ' << revenue << ' units_sold: ' << units_sold;
+    cout << "bookNo: " << bookNo << " revenue: " << revenue << " units_sold: " << units_sold;
     double averagePrice = CalcAveragePrice();
     if (averagePrice != 0.0) {
         cout << averagePrice << endl;
     } else {
-        cout << 'no soles' << endl;
+        cout << "no soles" << endl;
     }
 }
 

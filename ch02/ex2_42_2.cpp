@@ -17,7 +17,7 @@ int main() {
     book2.CalcRevenue(price2);
     book2.Print();
     if (book1.bookNo != book2.bookNo) {
-        cout << 'no same bookNo' << endl;
+        cout << "no same bookNo" << endl;
     } else {
         book1.AddData(book2);
         book1.Print();
