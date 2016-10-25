@@ -9,8 +9,8 @@ foreach( testsourcefile ${APP_SOURCES} )
     # I used a simple string replace, to cut off .cpp.
     string( REPLACE ".cpp" "" testname ${testsourcefile} )
     string( REPLACE "/Users/burlinchen/Projects/git-projects/my-Cpp-Primer/ch02/" "" testname2 ${testname} )
-    string( REPLACE "E:/git-projects/my-cpp-primer/ch02/" "" testname2 ${testname} )
-    add_executable( ${testname2} ${testsourcefile} )
+    string( REPLACE "E:/git-projects/my-cpp-primer/ch02/" "" testname3 ${testname2} )
+    add_executable( ${testname3} ${testsourcefile} )
     # Make sure YourLib is linked to each app
 #    target_link_libraries( ${testname} YourLib )
 endforeach( testsourcefile ${APP_SOURCES} )

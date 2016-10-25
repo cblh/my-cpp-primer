@@ -12,10 +12,11 @@ int main() {
     if (cin >> total.bookNo >> total.units_sold >> price1) {
         total.CalcRevenue(price1);
         Sales_data trans;
-        while (cin >> trans.bookNo >> total.units_sold >> price1) {
+        while (cin >> trans.bookNo >> trans.units_sold >> price1) {
             trans.CalcRevenue(price1);
             if (total.bookNo == trans.bookNo) {
                 total.revenue += trans.revenue;
+                total.units_sold += trans.units_sold;
             } else {
                 total.Print();
                 total = trans;
